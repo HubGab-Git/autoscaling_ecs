@@ -1,0 +1,1 @@
+# ECS Autoscaling infrastructure with EC2 ASG group
